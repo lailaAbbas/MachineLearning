@@ -20,3 +20,9 @@
 ### Logistic Regression
 #### Implement Logistic Regression model on Iris database
 
+## BioStatistics
+
+### Bayes Clasiifier
+
+#### Credit to Asmaa Mourad, Laila Abbas and Moaz Khairy
+#### Classify Palmer and Lateral signals by Bayes Classifier using MATLAB
